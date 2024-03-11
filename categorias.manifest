@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 273270627
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec844dc3d43a64d2189e983b7084f795
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0c77fa360f83dbf0da19da4d011a8303
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ec844dc3d43a64d2189e983b7084f795
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: d762af34674e27144ac8684bab6365fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: ContainerCategorias/Categoria
+Assets:
+- Assets/Bundles/Categorias.asset
+Dependencies: []
