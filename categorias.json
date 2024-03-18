@@ -1,1 +1,1 @@
-{"Categorias":[{"nome":"Pokemons","rodadas":[]},{"nome":"Animais","rodadas":[]},{"nome":"Letras","rodadas":[]},{"nome":"Simbolos","rodadas":[]}]}
+{"version":"1","Categorias":[{"nome":"Pokemons","bundleUrl":"https://github.com/ThadeuJ/CPF_Files/raw/main/pokemons_assets_all_a14861e188e7dbf2872ec4eb614e60ec.bundle"},{"nome":"Animais","bundleUrl":""},{"nome":"Letras","bundleUrl":""},{"nome":"Simbolos","bundleUrl":""}]}
